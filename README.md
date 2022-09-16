@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">How to contact Me?</h2>
+<h2 align="left">How to Contact Me?</h2>
 
 ###
 
@@ -43,9 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=TryGOTry" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img href="https://raw.githubusercontent.com/TryGOTry/TryGOTry/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
