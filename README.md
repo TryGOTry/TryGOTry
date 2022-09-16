@@ -45,6 +45,14 @@
 
 ###
 
+<h2 align="left">Commits.</h2>
+
+###
+
+![](https://activity-graph.herokuapp.com/graph?username=TryGOTry&theme=github)
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/TryGOTry/count.svg?"  />
 </div>
