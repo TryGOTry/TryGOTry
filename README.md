@@ -45,10 +45,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/TryGOTry/TryGOTry/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/TryGOTry/count.svg?"  />
 </div>
