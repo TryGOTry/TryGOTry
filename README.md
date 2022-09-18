@@ -11,11 +11,12 @@
 
 ###
 
-<p align="left">✨ Golang.<br>📚 Game....<br>🎯 Vme50...<br>🎲  Sleep... <br> And 巴拉巴拉一堆.</p>
+<img align="right" height="150" src="https://github.com/TryGOTry/TryGOTry/blob/main/logo.png"  />
 
 ###
 
-<img align="right" height="150" src="https://github.com/TryGOTry/TryGOTry/blob/main/logo.png"  />
+<p align="left">✨ Golang.<br>📚 Game....<br>🎯 Vme50...<br>🎲  Sleep... <br> And 巴拉巴拉一堆.</p>
+
 
 ###
 
