@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">QQ: 3099920039<br>WeChat: WebDemoSec<br>Email: tryblog@t00ls.com<br>Blog: https://www.nctry.com</p>
+<p align="left">WeChat: WebDemoSec<br>Email: tryblog@t00ls.com<br>Blog: https://www.nctry.com</p>
 
 ###
 
