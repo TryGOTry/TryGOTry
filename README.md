@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/TryGOTry/TryGOTry/blob/main/logo.png"  />
+<img align="right" height="150" src="https://github.com/TryGOTry/TryGOTry/blob/main/cat.jpg"  />
 
 ###
 
