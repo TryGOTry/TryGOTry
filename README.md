@@ -49,17 +49,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
 </div>
 
-###
-
-<h2 align="left">Commits.</h2>
-
-###
-
-![](https://activity-graph.herokuapp.com/graph?username=TryGOTry&theme=github)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TryGOTry/count.svg?"  />
-</div>
-
